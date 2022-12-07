@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/skyhitz.png',
+  favicon: 'img/logo.png',
   organizationName: 'skyhitz', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
   i18n: {
@@ -56,6 +56,10 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/skyhitz',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://instagram.com/skyhitz',
               },
             ],
           },
