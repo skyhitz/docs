@@ -1,2 +1,3 @@
-# docs
-Skyhitz docs &amp; guidelines
+# skyhitz docs
+
+https://skyhitz.github.io/docs/
