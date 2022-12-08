@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/logo.png',
   organizationName: 'skyhitz', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
+  trailingSlash: false,
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
