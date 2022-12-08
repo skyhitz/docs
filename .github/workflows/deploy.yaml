@@ -17,10 +17,10 @@ jobs:
           cache: yarn
 
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: npm ci
         working-directory: ./skyhitz
       - name: Build website
-        run: yarn build
+        run: npm run build
         working-directory: ./skyhitz
 
       # Popular action to deploy to GitHub Pages:

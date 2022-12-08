@@ -17,8 +17,8 @@ jobs:
           cache: yarn
 
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: npm ci
         working-directory: ./skyhitz
       - name: Test build website
-        run: yarn build
+        run: npm run build
         working-directory: ./skyhitz
