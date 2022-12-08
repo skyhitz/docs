@@ -9,7 +9,7 @@ const config = {
   title: 'Skyhitz Docs',
   tagline: 'Skyhitz - Music NFT marketplace on Stellar',
   url: 'https://skyhitz.io',
-  baseUrl: '/docs/',
+  baseUrl: 'https://skyhitz.github.io/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
