@@ -1,5 +1,16 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
 ---
 
-# TODO
+Github: https://github.com/skyhitz/nft-big-query
+
+Repository that contains PoC for finding nft music assets in the stellar network.
+
+## How to run
+
+Make sure you have `.env` file with environment variables (see config) and `credentials.json` for accessing google cloud platform.
+
+```sh
+npm install
+npm run start
+```
